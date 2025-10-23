@@ -42,7 +42,9 @@ export default defineConfig({
       "http://69.62.70.102",
       'dicom-review.preview.emergentagent.com',
       '.emergentagent.com',
-      '.preview.emergentagent.com'
+      '.preview.emergentagent.com',
+      '.scanflowai.com',
+      'www.scanflowai.com'
     ],
     proxy: {
       '/api': {
